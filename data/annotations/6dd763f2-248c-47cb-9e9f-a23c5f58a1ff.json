@@ -1,0 +1,375 @@
+{
+  "event_id": "c30db49b-900a-41bc-9efd-6aad4a0874ac",
+  "source_id": "fcecb2d7-c4e9-4b58-9c3e-bfa5f5e781e3",
+  "set": "Unknown",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 39.566803,
+      "annotation": [
+        {
+          "text": "Men singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "ef86a7f5-ea7f-44c8-8ae5-3d5cfea896d9"
+    },
+    {
+      "start_time": 61.765079,
+      "end_time": 179.16517,
+      "annotation": [
+        {
+          "text": "Women singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "2cd3f4e9-155e-44c9-84ad-b9ab39129bcc"
+    },
+    {
+      "start_time": 183.809161,
+      "end_time": 339.382857,
+      "annotation": [
+        {
+          "text": "Man singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "473cfd10-5079-4c5b-8465-a34ef55e8377"
+    },
+    {
+      "start_time": 358.887619,
+      "end_time": 517.897868,
+      "annotation": [
+        {
+          "text": "Men singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "c8174fca-3c85-4f6c-a0e7-5fe4a5f1ec80"
+    },
+    {
+      "start_time": 523.563537,
+      "end_time": 625.917098,
+      "annotation": [
+        {
+          "text": "Men singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "14e87254-6b3e-46bd-ac96-c1bbfb05948a"
+    },
+    {
+      "start_time": 685.360181,
+      "end_time": 696.784399,
+      "annotation": [
+        {
+          "text": "Man singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "9ae519c2-b62c-4fd4-8bcd-ca30b5f548ae"
+    },
+    {
+      "start_time": 770.809615,
+      "end_time": 781.583673,
+      "annotation": [
+        {
+          "text": "Man singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "2ecac298-010d-4ae5-a017-cd97f67dcfb6"
+    },
+    {
+      "start_time": 824.40127,
+      "end_time": 836.940045,
+      "annotation": [
+        {
+          "text": "Man and woman singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "d5b8fa1f-220f-4ce5-ba09-d8095a48d45d"
+    },
+    {
+      "start_time": 871.769977,
+      "end_time": 884.215873,
+      "annotation": [
+        {
+          "text": "Man and woman singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "4974d754-f6dc-42eb-b745-b08b5299529e"
+    },
+    {
+      "start_time": 949.231746,
+      "end_time": 1078.520454,
+      "annotation": [
+        {
+          "text": "Women singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "fc81638b-02f2-4e6c-aa35-9a4cb75bad09"
+    },
+    {
+      "start_time": 1086.020499,
+      "end_time": 1224.899048,
+      "annotation": [
+        {
+          "text": "Women singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "544521c7-51b6-42e3-962e-68ce74b1334e"
+    },
+    {
+      "start_time": 1232.805442,
+      "end_time": 1404.249977,
+      "annotation": [
+        {
+          "text": "Women singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "85072a35-86a9-4d9f-8175-adadf40ff3ba"
+    },
+    {
+      "start_time": 1449.389569,
+      "end_time": 1453.104762,
+      "annotation": [
+        {
+          "text": "Man singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "afcaf4ae-ae96-4add-a4b0-be9b685b4aa1"
+    },
+    {
+      "start_time": 1472.145125,
+      "end_time": 1476.046077,
+      "annotation": [
+        {
+          "text": "Man singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "78d75266-011f-4eee-af5e-9b642056e3f8"
+    },
+    {
+      "start_time": 1484.77678,
+      "end_time": 1488.863492,
+      "annotation": [
+        {
+          "text": "Man singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "777e386c-90db-4a0b-aaf3-ca07805eb225"
+    },
+    {
+      "start_time": 1680.938957,
+      "end_time": 1865.119637,
+      "annotation": [
+        {
+          "text": "Man singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "3d253200-373a-4067-8b9c-8a22cca44649"
+    },
+    {
+      "start_time": 1871.156825,
+      "end_time": 1969.052154,
+      "annotation": [
+        {
+          "text": "Man singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "637d316c-56a8-48b8-9b41-34d7fdd4a130"
+    },
+    {
+      "start_time": 1980.383492,
+      "end_time": 2139.207982,
+      "annotation": [
+        {
+          "text": "Woman singing with ukulele"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "d7dc0345-42ff-429a-8a9c-f87d7bc96613"
+    },
+    {
+      "start_time": 2149.401542,
+      "end_time": 2247.134331,
+      "annotation": [
+        {
+          "text": "Woman singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "00019378-3b13-4870-967e-41aba98b66f5"
+    },
+    {
+      "start_time": 2273.697959,
+      "end_time": 2432.708209,
+      "annotation": [
+        {
+          "text": "Woman singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "8d741018-31f9-42b3-826a-4b10b324928e"
+    },
+    {
+      "start_time": 2440.324354,
+      "end_time": 2487.507302,
+      "annotation": [
+        {
+          "text": "Children singing and clapping"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "853e6e82-f2b3-4be2-bb6c-55a1092d3cfa"
+    },
+    {
+      "start_time": 2492.329276,
+      "end_time": 2492.329276,
+      "annotation": [
+        {
+          "text": "Children singing and clapping"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "517f9413-d221-4e48-9fe2-d2b9fd896588"
+    },
+    {
+      "start_time": 2565,
+      "end_time": 2565,
+      "annotation": [
+        {
+          "text": "Men singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "9f2c7d25-04e4-4fcd-9aad-9a68decf2d7a"
+    }
+  ]
+}

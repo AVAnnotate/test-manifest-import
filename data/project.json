@@ -95,10 +95,38 @@
         {
           "category": "_uncategorized_",
           "tag": "Sex"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Unknown"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Library of Congress"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Zora Neale Hurston"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Inaudible"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Instruments"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Herbert Halpert"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distortion"
         }
       ]
     },
     "created_at": "2024-09-25T15:59:12.749Z",
-    "updated_at": "2024-09-25T19:03:29.619Z"
+    "updated_at": "2024-09-25T19:04:00.125Z"
   }
 }
