@@ -17,10 +17,88 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "color": "#A3A3A3",
+          "category": "_uncategorized_"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuneiform"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mayer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Donate"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lag"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Synesthesia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Memory"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Money"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Place"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Masks"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pandemic"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Trump"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Race"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Policing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Guns"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sex"
+        }
+      ]
     },
     "created_at": "2024-09-25T15:59:12.749Z",
-    "updated_at": "2024-09-25T16:05:26.675Z"
+    "updated_at": "2024-09-25T16:15:39.412Z"
   }
 }

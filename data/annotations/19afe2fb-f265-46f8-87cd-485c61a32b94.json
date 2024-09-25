@@ -1,0 +1,1947 @@
+{
+  "event_id": "730a7c83-944b-4784-b3f2-1a22291e1b9e",
+  "source_id": "42907da4-9760-47ac-b581-95bd7d4f2618",
+  "set": "default",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 19,
+      "annotation": [
+        {
+          "text": "Recording begins with Zoom profile photo of a drawing of a baseball breaking a window with faint sound of the song It Ain't Me Babe."
+        }
+      ],
+      "tags": [],
+      "uuid": "4075bebe-4e3a-4f37-937e-d38d2de262e8"
+    },
+    {
+      "start_time": 20,
+      "end_time": 35,
+      "annotation": [
+        {
+          "text": "Empty Zoom profile with no sound "
+        }
+      ],
+      "tags": [],
+      "uuid": "b3c1953f-bd1b-46f3-9c13-8b468a2164df"
+    },
+    {
+      "start_time": 36,
+      "end_time": 57,
+      "annotation": [
+        {
+          "text": "An older man plays with his phone camera in speaker view, first shooting his forehead in front of a very bright light, then lowering it to his face; in this there is a very brief flash of two other people"
+        }
+      ],
+      "tags": [],
+      "uuid": "bc8af8ab-310d-4b71-9893-c510711fe6cf"
+    },
+    {
+      "start_time": 60,
+      "end_time": 80,
+      "annotation": [
+        {
+          "text": "Cut to another younger man, Bradley King, in his bedroom. The room has books and hung up drawings. He scoots his chair closer to the computer for a medium close up."
+        }
+      ],
+      "tags": [],
+      "uuid": "5118ecba-364a-49ed-8b07-94bbdd514fb6"
+    },
+    {
+      "start_time": 81,
+      "end_time": 95,
+      "annotation": [
+        {
+          "text": "Bradley sits up straight, adjusts computer"
+        }
+      ],
+      "tags": [],
+      "uuid": "e4f971f8-cb45-47ee-89f5-0c24ed2a40b2"
+    },
+    {
+      "start_time": 96,
+      "end_time": 110,
+      "annotation": [
+        {
+          "text": "Cut back to drawing of baseball through window with faint music"
+        }
+      ],
+      "tags": [],
+      "uuid": "3459664d-58a8-4c64-aa89-9c5265c091ca"
+    },
+    {
+      "start_time": 111,
+      "end_time": 118,
+      "annotation": [
+        {
+          "text": "Cut back to Bradley King in his room. BK: Hi everyone! "
+        }
+      ],
+      "tags": [],
+      "uuid": "483a4922-ce5c-4874-bac2-27a869754791"
+    },
+    {
+      "start_time": 125,
+      "end_time": 130,
+      "annotation": [
+        {
+          "text": "BK: Welcome to this event! Can everyone hear me I assume you can? "
+        }
+      ],
+      "tags": [],
+      "uuid": "83e4eb1e-9c1a-4539-bd86-5becca68e4bd"
+    },
+    {
+      "start_time": 131,
+      "end_time": 139,
+      "annotation": [
+        {
+          "text": "Cut to speaker view without profile photo: Yes hi!! BK: Hi thank you! (laughter from unknown speaker view)"
+        }
+      ],
+      "tags": [],
+      "uuid": "75491ec2-c657-404f-a7e7-b59ec79e5fac"
+    },
+    {
+      "start_time": 140,
+      "end_time": 151,
+      "annotation": [
+        {
+          "text": "Cut back to BK: There are still many people showing up and I'm going to let them in as a welcome you. Thank you for coming. Thank you for donating. Thank you for your patience."
+        }
+      ],
+      "tags": [],
+      "uuid": "dced17d7-ee53-4e04-8bf3-47665676d233"
+    },
+    {
+      "start_time": 152,
+      "end_time": 171,
+      "annotation": [
+        {
+          "text": "BK: There will be connections tonight. There will be connection disruptions. There will be connection euphoria. So try to bear with us as we try to make this work gracefully."
+        }
+      ],
+      "tags": [],
+      "uuid": "7cff3ff2-d23c-4e7b-a8bd-f4b78bee89d7"
+    },
+    {
+      "start_time": 174,
+      "end_time": 192,
+      "annotation": [
+        {
+          "text": "BK: I want to begin by thanking Sarah la Puerta who organized this whole event. This is her vision and we owe her our gratitude for this night. "
+        }
+      ],
+      "tags": [],
+      "uuid": "dae5231c-dae3-4665-811d-e067e97df456"
+    },
+    {
+      "start_time": 196,
+      "end_time": 201,
+      "annotation": [
+        {
+          "text": "BK: And we owe her our gratitude for this night. Thank you also to Kyle Schlesinger and Cuneiform Press "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuneiform"
+        }
+      ],
+      "uuid": "b654881d-115d-433c-bde2-b2877b11ade7"
+    },
+    {
+      "start_time": 204,
+      "end_time": 204,
+      "annotation": [
+        {
+          "text": "Blank Zoom profile: Yay!"
+        }
+      ],
+      "tags": [],
+      "uuid": "d6191531-2948-421d-b259-782b4f7058e9"
+    },
+    {
+      "start_time": 206,
+      "end_time": 229,
+      "annotation": [
+        {
+          "text": "BK: And thanks for you for saying yay and donating, and coming, and thanks most of all to Bernadette Mayer for writing poetry and for creating these vitalizing energy vessels for us all to enjoy "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mayer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Donate"
+        }
+      ],
+      "uuid": "87b89d3d-c008-4c32-b181-67785946672d"
+    },
+    {
+      "start_time": 235,
+      "end_time": 249,
+      "annotation": [
+        {
+          "text": "BK: Well more than enjoy, to draw upon as we try to live. Um, if you want to donate tonight here's how you do it. "
+        }
+      ],
+      "tags": [],
+      "uuid": "2dd12f2b-bb5e-495d-bd0a-09c59d48e887"
+    },
+    {
+      "start_time": 249,
+      "end_time": 265,
+      "annotation": [
+        {
+          "text": "BK: Many of you have already donated but if you want to donate again or...if you have not donated yet and would like to"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Donate"
+        }
+      ],
+      "uuid": "07e76ed4-546a-402f-b2f8-bbb2d34e377e"
+    },
+    {
+      "start_time": 269,
+      "end_time": 269,
+      "annotation": [
+        {
+          "text": "Sharescreen of How to Donate document it includes Paypal generocityreading@gmail.com and Venmo handle @generocity and the website for Cuneiform Press. Alongside the shared screen is a gallery view of Bradley King, Kyle Schlesinger in front of a large library of books, and two other people (unknown), but also the Zoom icon with the first name of a letter S. One of the people is sitting in bed eating soup."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Donate"
+        }
+      ],
+      "uuid": "a280b148-175d-4065-b2c1-a0f3a74e9e45"
+    },
+    {
+      "start_time": 278,
+      "end_time": 283,
+      "annotation": [
+        {
+          "text": "Sound of laughter and background noise. BK: Will someone confirm that they can? Audience: YES! BK: Ok "
+        }
+      ],
+      "tags": [],
+      "uuid": "186f3507-c4e5-4602-9bee-365a541eef6b"
+    },
+    {
+      "start_time": 285,
+      "end_time": 285,
+      "annotation": [
+        {
+          "text": "Bernadette Mayer and Philip Good visible in gallery view side bar"
+        }
+      ],
+      "tags": [],
+      "uuid": "a6829339-81e5-4761-9d11-a9143e7f558c"
+    },
+    {
+      "start_time": 285,
+      "end_time": 299,
+      "annotation": [
+        {
+          "text": "BK: And the first announcement I will make is that if you purchase anything from Cuneiform Press tonight. The money that you pay for your books will go directly to the Bernadette mayer fund. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuneiform"
+        }
+      ],
+      "uuid": "eb56ef37-9ad0-42c9-9c83-39c40946afee"
+    },
+    {
+      "start_time": 301,
+      "end_time": 321,
+      "annotation": [
+        {
+          "text": "BK: So if you have been thinking about any Cuneiform Press releases, which, he has many this summer, Kyle has been hard at work this summer. I have the website listed there. Search around if you buy books the money will go to our cause this evening. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuneiform"
+        }
+      ],
+      "uuid": "e0b64eaa-ea01-4cf6-bd6d-ac5f67adb8b1"
+    },
+    {
+      "start_time": 323,
+      "end_time": 346,
+      "annotation": [
+        {
+          "text": "BK: I also wanna say. Um, I think I'm recording this. I have this meeting set up to where it's supposed to automatically record, but if you would like to record I believe I also have it set up to where you can just press record and you should be able to "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        }
+      ],
+      "uuid": "72ddb619-382a-43fd-9261-62b9588f4e23"
+    },
+    {
+      "start_time": 347,
+      "end_time": 362,
+      "annotation": [
+        {
+          "text": "BK: And if anyone has, if anyone is trying to record and is struggling to record well let me know send me a message and I'll see what I can do. (Bradley changes his Zoom background to The Northern Lights) yeah, that seems more right."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        }
+      ],
+      "uuid": "87f0d60c-56c2-4b79-a2a3-da91ea653b90"
+    },
+    {
+      "start_time": 367,
+      "end_time": 384,
+      "annotation": [
+        {
+          "text": "BK: Um, if you want to learn about Bernadette Mayer and her life in poetry and the great work she has done for all of us "
+        }
+      ],
+      "tags": [],
+      "uuid": "5d382989-7cbe-4947-81d9-756c7fc1049c"
+    },
+    {
+      "start_time": 387,
+      "end_time": 400,
+      "annotation": [
+        {
+          "text": "BK: then there are lots of places you can read about that and so tonight instead of telling you about her in an introduction I am just going to ask Bernadettte a couple questions"
+        }
+      ],
+      "tags": [],
+      "uuid": "98e6444b-3fa5-4d53-9272-2bd887f0e582"
+    },
+    {
+      "start_time": 400,
+      "end_time": 286,
+      "annotation": [
+        {
+          "text": "BK: Um, Bernadette are you ready? Bernadette Mayer: Yes Dear. Image: Cut to Bernadette Mayer, an older woman with glasses, a red head scarf, wearing a brightly colored dashiki-like outfit. Sitting next to her slightly out of frame is an older man. In the background is a houseplant with red flowers, a window, art work on the walls, and framed photos on a desk. "
+        }
+      ],
+      "tags": [],
+      "uuid": "53a243ae-4dc8-46b3-ad70-d56f8435d8a9"
+    },
+    {
+      "start_time": 287,
+      "end_time": 419,
+      "annotation": [
+        {
+          "text": "BK in speaker view: Uh, well, the first thing I wanna ask you is did you see anyting terrific or fascinating in your yard today. BK smiles. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lag"
+        }
+      ],
+      "uuid": "1cb3c6e4-d7d4-4e9e-92b8-376264ca7433"
+    },
+    {
+      "start_time": 423,
+      "end_time": 431,
+      "annotation": [
+        {
+          "text": "Back to BM in speaker view after she says: OOo, Hmmm, An orange tree. BK in speaker view: An orange tree? Oh hm, well did the tree have oranges on it? Or..?"
+        }
+      ],
+      "tags": [],
+      "uuid": "bd5863fa-bea1-41b0-a1cb-70640fd1d788"
+    },
+    {
+      "start_time": 432,
+      "end_time": 437,
+      "annotation": [
+        {
+          "text": "BM in speaker mode: No, no (BM's partner laughs) BM: It is a tree that turns orange. She laughs."
+        }
+      ],
+      "tags": [],
+      "uuid": "2678ebf6-64be-451e-953a-996700792c64"
+    },
+    {
+      "start_time": 438,
+      "end_time": 462,
+      "annotation": [
+        {
+          "text": "BK in speaker mode: Well, I, I, that, that I'm glad you said that because I also wanted to ask you about color, I've heard that you have some ideas or you like to talk about the color of letters of the alphabet. And I was just going to ask you to say a bit about the color letters."
+        }
+      ],
+      "tags": [],
+      "uuid": "09b7e1de-bfe0-4e29-b8d4-e708b50f1ea7"
+    },
+    {
+      "start_time": 469,
+      "end_time": 479,
+      "annotation": [
+        {
+          "text": "BM in speaker mode: Oh, uh, ok, well A is red. B is pink. C is ochre. (slight distortion or lag) D is black.  "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Lag"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Synesthesia"
+        }
+      ],
+      "uuid": "5fc0c8d4-935f-4300-8f6b-2c38be2ad4ea"
+    },
+    {
+      "start_time": 480,
+      "end_time": 490,
+      "annotation": [
+        {
+          "text": "Brief cut to older man in extreme close up then back to speaker view of BM: What comes after D? E, green. F who's that? Voice off screen: It's Neely. BM: Oh it's Neely! F is blue gray. "
+        }
+      ],
+      "tags": [],
+      "uuid": "3b726832-60a9-4717-a80f-f59904869db7"
+    },
+    {
+      "start_time": 491,
+      "end_time": 506,
+      "annotation": [
+        {
+          "text": "BM: G is brown. brief cut to audience member in speaker view. H blue gray. I gray, J, brown, K black, L gray, O a beautiful white! "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Synesthesia"
+        }
+      ],
+      "uuid": "64df0c04-29f2-4961-916d-3cbf2c896bbe"
+    },
+    {
+      "start_time": 507,
+      "end_time": 528,
+      "annotation": [
+        {
+          "text": "BM: M brown, N, should I go on? BK: Yeah, please! Cut to BK in speaker view. N, O white, P, blue, drak blue, uhhh, Q is golden"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Synesthesia"
+        }
+      ],
+      "uuid": "5d80a015-55f1-4e53-84b0-903421253706"
+    },
+    {
+      "start_time": 529,
+      "end_time": 560,
+      "annotation": [
+        {
+          "text": "BM: R is burnt orange, S yellow, T dark blue gray, U gray, V blue, What comes after V? W, brown, X golden, Y, yellow, Z, brown. BK: Brown? What comes after brown? BM laughs loudly."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Synesthesia"
+        }
+      ],
+      "uuid": "2afe7eb4-fb2a-4b43-ba37-b7f371da59cc"
+    },
+    {
+      "start_time": 561,
+      "end_time": 575,
+      "annotation": [
+        {
+          "text": "BM: Well nothing really. Every synesthete has a different color for every letter so somebody's else's letters would would be a different color. BK: I see. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Synesthesia"
+        }
+      ],
+      "uuid": "c1c82deb-a3b5-47c6-a179-95eac6e27982"
+    },
+    {
+      "start_time": 576,
+      "end_time": 589,
+      "annotation": [
+        {
+          "text": "Cut to BK in speaker view: Do you have these memorized or? Do they come to you differently each time. BM: I can't hear. BK: I say do they come to you differently or are they always the same each time? (slight distortion in mic)"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Memory"
+        }
+      ],
+      "uuid": "c1061149-0235-49a5-abd1-6725a0e550db"
+    },
+    {
+      "start_time": 590,
+      "end_time": 611,
+      "annotation": [
+        {
+          "text": "back to BM in speaker view: No they're always the same. They've been the same since I was a child. Just a letter is a certain color and it just stays that way forever"
+        }
+      ],
+      "tags": [],
+      "uuid": "913218ce-3361-490a-9ba7-b2fc962ca985"
+    },
+    {
+      "start_time": 612,
+      "end_time": 630,
+      "annotation": [
+        {
+          "text": "Even if you know like Nabokov (changing to Russian pronunciation) NabOkov said there playing with blocks when he was a kid, they're all the wrong colors (Sound of Venmo app receiving money) and his mother said yes I know. BM laughs and so does BK."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Money"
+        }
+      ],
+      "uuid": "4285f2ed-8929-4d37-ba7f-c8b65fe5fe0c"
+    },
+    {
+      "start_time": 633,
+      "end_time": 645,
+      "annotation": [
+        {
+          "text": "back to BK in speakerview. Slight distortion of audio. BK: Did the colors of the letters ever seem like the wrong colors to you? Back to BM in speaker view: Yeah they do. But I always enjoyed the fact that E was green. "
+        }
+      ],
+      "tags": [],
+      "uuid": "7208a525-8205-4a11-a03d-ed65362edac8"
+    },
+    {
+      "start_time": 646,
+      "end_time": 655,
+      "annotation": [
+        {
+          "text": "BK: Because it mean as I said very often to my grand daughter it means free money is green. BM laughs. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Money"
+        }
+      ],
+      "uuid": "83f0d348-1d89-47a0-8e87-c1ef02bd035e"
+    },
+    {
+      "start_time": 656,
+      "end_time": 665,
+      "annotation": [
+        {
+          "text": "BK in speaker view: I'm gonna keep my eyes open for the letter E now. Cut to BM who is now sipping water: What? Man next to her says quietly: Keep your eyes open for the letter E. Cut back to BK. UM, can I ask you one more question?   "
+        }
+      ],
+      "tags": [],
+      "uuid": "4286bcbc-d7c5-47fd-8b96-2ff983fa2f0d"
+    },
+    {
+      "start_time": 666,
+      "end_time": 686,
+      "annotation": [
+        {
+          "text": "BM in speaker view: MMmhmmM. BK: I wanted to ask you what you favorite thought that you've had today was. BM: Yeah, um, gee. Man next to her quietly whispers: The maple tree. The tree. in the creek. BM turns her head to listen. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Nature"
+        }
+      ],
+      "uuid": "0130d520-c923-4587-aea0-43cc6aab320e"
+    },
+    {
+      "start_time": 688,
+      "end_time": 710,
+      "annotation": [
+        {
+          "text": "BM: The um, OH! Well, I dont know if it's my favorite thought but we were walking by the Kinderhook creek and we could see the trees above and I pointed to this really orange tree. And I asked Phil who was with me. Is this our tree? "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Nature"
+        }
+      ],
+      "uuid": "774c5ef9-3fb1-4a3e-a4d6-4e620a03301a"
+    },
+    {
+      "start_time": 711,
+      "end_time": 730,
+      "annotation": [
+        {
+          "text": "BM: Now this is not a favorite thought. It is just an odd thought to think that a tree belongs to you. Sound of someone watching TV (maybe Narcos?) very loudly. back to BK in speaker: now you found yourself with this odd thought.  "
+        }
+      ],
+      "tags": [],
+      "uuid": "19b67d71-cb6f-4c50-aef4-5e086c646af5"
+    },
+    {
+      "start_time": 731,
+      "end_time": 739,
+      "annotation": [
+        {
+          "text": "BK in speaker view. Sound of someone watching TV with mic on and empty profile in speaker view. BM smiling: Who's that? Partner: I don't know. BK angrily: Who's got there TV on?!  "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        }
+      ],
+      "uuid": "659c0731-63c2-4b00-8a35-4bd1a8467cb0"
+    },
+    {
+      "start_time": 740,
+      "end_time": 774,
+      "annotation": [
+        {
+          "text": "Loud sound of TV continues. BK in speakerview: My god I don't know what to do with this. Someone is not muted. MUTE MUTE MUTE. OK. Well before we get to the readings, thank you Bernadette for talking with me, before we get to the readings I wanna do, I'm your telethon fool this evening. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        }
+      ],
+      "uuid": "06898d4d-273a-4199-a217-2f2c7b4112c6"
+    },
+    {
+      "start_time": 775,
+      "end_time": 790,
+      "annotation": [
+        {
+          "text": "BK: I'm gonna be making announcements about how to donate money to our cause. So there's one way that you can do that. I'm gonna share my screen and I think I have a beautiful image to share with you. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Money"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        }
+      ],
+      "uuid": "38c488af-7ac5-4272-b943-80ef2874f087"
+    },
+    {
+      "start_time": 795,
+      "end_time": 807,
+      "annotation": [
+        {
+          "text": "BK shares screen of red and blue broadside of Bernadette Mayer's poem \"We are Ordinary C'Mere.\" BK in gallery view along with KS, BM and a few others. BK: Can you all confirm that you see this? That everybody can see what we're looking. KS gives thumbs up. A number of voices Yes! With audio distorted.  "
+        }
+      ],
+      "tags": [],
+      "uuid": "40116fb6-330b-4da5-9c09-25cfd2ed0e63"
+    },
+    {
+      "start_time": 812,
+      "end_time": 835,
+      "annotation": [
+        {
+          "text": "Sound of appreciative ooos and ahhs. BK: These are Bernadette Mayer sonnets. In case you don't know, Bernadette Mayer is an innovator of many, many literary genres, including Utopia Visions and Journals and Sonnets and um, Sharon Ruse who is a master calligrapher from Austin, Texas "
+        }
+      ],
+      "tags": [],
+      "uuid": "5ecb16fd-5191-4363-b10e-0dbcb61dfe57"
+    },
+    {
+      "start_time": 837,
+      "end_time": 864,
+      "annotation": [
+        {
+          "text": "BK: Has written out some of her favorite of Bernadette's sonnets and these are kind of the grand prize for donations. But if you feel moved to donate 500 dollars to our honarium for Bernadette Mayer and Philip's cause to buy a generator tonight these are available. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Donate"
+        }
+      ],
+      "uuid": "ef88a68b-40a8-4904-824b-39f142760ee7"
+    },
+    {
+      "start_time": 867,
+      "end_time": 899,
+      "annotation": [
+        {
+          "text": "BK: Phenomenon of Chaos has already been claimed but this sonnet here (BK scrolls through quickly to Sonnet with the first line, \"Other than what's gone on and stupid art\") and this sonnet here, C'mere Tell me the rest of it, these are still available.The artwork around the edges was done by another friend of Cuneiform Press Philip Trussel who is a poet. "
+        }
+      ],
+      "tags": [],
+      "uuid": "fb34e024-0587-49fc-94e6-343921136b1a"
+    },
+    {
+      "start_time": 900,
+      "end_time": 918,
+      "annotation": [
+        {
+          "text": "BK:painter and hermetic scholar who also lives in Austin. So I'm gonna stop that screenshare. If anyone has any questions about how to donate just contact me of Kyle Schlesinger or Sarah La Puerta in the chat. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        }
+      ],
+      "uuid": "ba396d8c-64c0-41b4-b9d5-cc0f1438296a"
+    },
+    {
+      "start_time": 919,
+      "end_time": 950,
+      "annotation": [
+        {
+          "text": "BK: And well I'll be telling you more about this as the evening goes on. Now we're gonna do a series of short readings. Oh more people to admit to the meeting! Here they come. There will be a handful of poets and we're gonna do a set of readings in honor of Bernadette and I'm going to begin. We'll go in a sorta circle if that's what you wanna call it. "
+        }
+      ],
+      "tags": [],
+      "uuid": "7a9c73cb-2f5a-4bf5-88ec-b498cfe2d489"
+    },
+    {
+      "start_time": 951,
+      "end_time": 976,
+      "annotation": [
+        {
+          "text": "And um, then we'll take the evening from there. Some I'm gonna read two poems, from a long poem or I guess two stanzas if you wanna call them from a long poem that I recently wrote and the name of the poem is Hey Craig. And this is stanza number 20.  "
+        }
+      ],
+      "tags": [],
+      "uuid": "b18c01ec-5272-4e5d-8079-31a9bf412ebc"
+    },
+    {
+      "start_time": 977,
+      "end_time": 1037,
+      "annotation": [
+        {
+          "text": "BK reads from his poem Hey Craig"
+        }
+      ],
+      "tags": [],
+      "uuid": "0d03bbe5-6739-4f29-8cf5-cd1f3af2d705"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1099,
+      "annotation": [
+        {
+          "text": "BK: And this is stanza number 2. BK reads from Hey Craig. BK smirks after the line, And that's why the wealthy so love the arts."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Money"
+        }
+      ],
+      "uuid": "880aae34-7cdb-4fc1-b2fa-8070c1b8f9aa"
+    },
+    {
+      "start_time": 1103,
+      "end_time": 1113,
+      "annotation": [
+        {
+          "text": "BK: And our next reader will be Sivan Lavie who coming to us from Jerusalem. Speaker view of Bernadette Mayer briefly. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Place"
+        }
+      ],
+      "uuid": "aad97d7e-1a7c-4b55-9387-df11cdcad0ac"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1114,
+      "annotation": [
+        {
+          "text": "SL in speaker view. She is a woman with curly hair and a patterned turtleneck, behind her is a pantry, knives on the wall, and a calendar"
+        }
+      ],
+      "tags": [],
+      "uuid": "35329d06-7fc8-40c0-af01-f23e8c18968d"
+    },
+    {
+      "start_time": 1115,
+      "end_time": 1122,
+      "annotation": [
+        {
+          "text": "SL: Hi! I'm Sivan Lavie and I am in Jerusalem. I'm gonna be reading a couple of poems. (Sound of pages shuffling) SL moves to get papers."
+        }
+      ],
+      "tags": [],
+      "uuid": "465f02f3-d168-48eb-9b54-9da42c2b5c8a"
+    },
+    {
+      "start_time": 1123,
+      "end_time": 1240,
+      "annotation": [
+        {
+          "text": "SL: reads a poem with the first line \"Featherball Badminton with wings and spirals\" "
+        }
+      ],
+      "tags": [],
+      "uuid": "34d6d9a6-1f0e-4f4e-b38f-45bac29a6186"
+    },
+    {
+      "start_time": 1147,
+      "end_time": 1147,
+      "annotation": [
+        {
+          "text": "BK in speaker view seemingly because of sound of him picking up a glass. This occurs multiple times throught SL's first poem."
+        }
+      ],
+      "tags": [],
+      "uuid": "85bb71ec-6d28-4205-b658-ac7dde4db545"
+    },
+    {
+      "start_time": 1151,
+      "end_time": 1151,
+      "annotation": [
+        {
+          "text": "Back to SL in speaker view with some shots back to BK in speaker view"
+        }
+      ],
+      "tags": [],
+      "uuid": "6b31ad97-a61a-492b-8c81-c0bcd506f164"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1336,
+      "annotation": [
+        {
+          "text": "SL exhales. And the next poem, \"My Favorite Color\""
+        }
+      ],
+      "tags": [],
+      "uuid": "049c8dfa-1a77-4e60-a32c-3738191a0a15"
+    },
+    {
+      "start_time": 1336,
+      "end_time": 1345,
+      "annotation": [
+        {
+          "text": "SL exhales and smiles: And next up we've go Zoe Darsee. Thank you. SL laughs and leans head on hand. Sound of scattered applause. And next up we've got Zoe Darsee in Berlin. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Place"
+        }
+      ],
+      "uuid": "63f2903b-871c-4f04-92bd-eb0a6f1567c6"
+    },
+    {
+      "start_time": 1346,
+      "end_time": 1355,
+      "annotation": [
+        {
+          "text": "Off-screen, someone says,I know, I know, come here. Speaker view of Zoe Darsee and Nicole Herr against a plane white wall. Two women with short hair, dressed simply. ZD: Um, ok. Cut back to speaker view of SL smiling. Then back to ZD. "
+        }
+      ],
+      "tags": [],
+      "uuid": "105ec93f-e9ca-4ab3-a71a-9823fb86914e"
+    },
+    {
+      "start_time": 1355,
+      "end_time": 1554,
+      "annotation": [
+        {
+          "text": "ZD begins reading: Against the paperlike wind she clutched the train as she lowered herself out of an exit and braced for impact. Sounds of pages turning as ZD looks at screen and then away."
+        }
+      ],
+      "tags": [],
+      "uuid": "8dee0dbb-f01f-45a9-80e1-d38129c8e9cd"
+    },
+    {
+      "start_time": 1557,
+      "end_time": 1567,
+      "annotation": [
+        {
+          "text": "ZD: Thank you, um, Kevin is next. ZD smiles. NH in frame claps. The two women are sitting on a bed, smile, and look at each other happily."
+        }
+      ],
+      "tags": [],
+      "uuid": "021600cf-ba37-4521-9706-cec6c61de460"
+    },
+    {
+      "start_time": 1569,
+      "end_time": 1569,
+      "annotation": [
+        {
+          "text": "KMT: Thanks Zoe!"
+        }
+      ],
+      "tags": [],
+      "uuid": "fc773937-5d79-4d03-a74f-972a944d69ee"
+    },
+    {
+      "start_time": 1570,
+      "end_time": 1570,
+      "annotation": [
+        {
+          "text": "Kevin McNamee Tweed in speaker view. He is a man with a beard in a yellow Iowa City shirt. Behind him is a basketball net toy, abstract art on the wall, and an open door with three windows. There is also a tabby cat behind him who moves in and out of view."
+        }
+      ],
+      "tags": [],
+      "uuid": "4acf31e3-c1cd-4b0b-ac6d-70ce388e0fae"
+    },
+    {
+      "start_time": 1576,
+      "end_time": 1580,
+      "annotation": [
+        {
+          "text": "KMT turns pages looks around room. KMT: Professional liquid. Can you hear me? "
+        }
+      ],
+      "tags": [],
+      "uuid": "5915e4b5-0639-447b-aecb-2facf806ea34"
+    },
+    {
+      "start_time": 1581,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "text": "KMT begins reading a poem titled \"Professional Liquid,\" \"I woke up today with the words professional liquid which I had read on a bottle of discount superglue.\" The poem mentions walking a dog there is a dog slightly visible to his right side."
+        }
+      ],
+      "tags": [],
+      "uuid": "8a67ede5-7c2e-42db-8280-c3601dbeb25b"
+    },
+    {
+      "start_time": 1631,
+      "end_time": 1650,
+      "annotation": [
+        {
+          "text": "KMT begins reading a poem titled, \"Pasta Types,\" \"linguine, fettucine, capolini, orochiette\""
+        }
+      ],
+      "tags": [],
+      "uuid": "b7fd577f-6d70-4455-bdf4-85d271609ae0"
+    },
+    {
+      "start_time": 1653,
+      "end_time": 1711,
+      "annotation": [
+        {
+          "text": "KMT reads poem \"Logarithms\" But there are no fractions. Life is an integer that's what John Ashbery said. "
+        }
+      ],
+      "tags": [],
+      "uuid": "9b9e318d-e2b1-4e06-90ef-919dd9840dd4"
+    },
+    {
+      "start_time": 1714,
+      "end_time": 1725,
+      "annotation": [
+        {
+          "text": "KMT: Thanks. I don't know who's next. I think Mauricio, maybe? Bradley? You're on mute. "
+        }
+      ],
+      "tags": [],
+      "uuid": "a14ad077-1d4d-4b94-9038-0bc07e229788"
+    },
+    {
+      "start_time": 1727,
+      "end_time": 1736,
+      "annotation": [
+        {
+          "text": "Back to BK in speaker view leaning on desk. BK: The next reader is Zan de Parry. The image cuts back to Kevin briefly. BK: Is Zan here?"
+        }
+      ],
+      "tags": [],
+      "uuid": "38dedfcf-c941-4fdd-9e9f-5d99199fdc3c"
+    },
+    {
+      "start_time": 1738,
+      "end_time": 1747,
+      "annotation": [
+        {
+          "text": "Zan de Perry is outside at twilight. He is using Zoom on a phone clearly. He is wearing a hat and has airpods in. The shot is from below and behind him are the silhouttes of trees, a powerline, and a sloping roof. ZDP: Yo! BK: Heyyyyy ZDP: Hey smiles. Cut back to BK: Hey. Cut back to ZDP in speaker view who is walking around and the camera moves and we see different aspects, more of the roof etc, of his background. "
+        }
+      ],
+      "tags": [],
+      "uuid": "8ace0231-e177-49e6-957d-5096a59cb8ff"
+    },
+    {
+      "start_time": 1747,
+      "end_time": 1835,
+      "annotation": [
+        {
+          "text": "ZDP recites while walking through trees at twilight, behind him there is a house briefly which he sits on the porch of. The poem begins, And the fairytale. the orange cat. we raised Jesus but not like pisces. (Sounds of ducks quacking and bugs chirping throughout recitation)"
+        }
+      ],
+      "tags": [],
+      "uuid": "7eee4c4b-21b5-4a2d-9c5e-70d401f7e3ae"
+    },
+    {
+      "start_time": 1836,
+      "end_time": 1863,
+      "annotation": [
+        {
+          "text": "ZDP recites another poem, Jessup, Pennsyvalia tinsletown? Is Decoula Georgia tinsletown? "
+        }
+      ],
+      "tags": [],
+      "uuid": "832ac0e4-e952-40a6-88b4-36e8286d54ae"
+    },
+    {
+      "start_time": 1867,
+      "end_time": 1895,
+      "annotation": [
+        {
+          "text": "ZDP recites another poem: It is night. The smell of grass, mouth full of rain. "
+        }
+      ],
+      "tags": [],
+      "uuid": "b95b3b43-d593-4b3a-bc7b-36fbfe862af7"
+    },
+    {
+      "start_time": 1901,
+      "end_time": 1911,
+      "annotation": [
+        {
+          "text": "ZDP: Our next poet is Adrienne from Berlin. Our next poet is Adrienne Herr from Berlin. Much love thank you. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Place"
+        }
+      ],
+      "uuid": "5b2eeeae-c634-457e-be04-f02b2a95728a"
+    },
+    {
+      "start_time": 1912,
+      "end_time": 1936,
+      "annotation": [
+        {
+          "text": "AH: Hi.. Um. (Image cuts back ZD and AH in speaker view sitting on a bed against a white wall. Behind AH is a black and white photograph and small map on a wall) I've never done a reading on Zoom before but it's pretty cool to be virtually with you and I'm going to read three poems, um"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        }
+      ],
+      "uuid": "42537ca3-4331-46b9-a355-4fd616e32a64"
+    },
+    {
+      "start_time": 1936,
+      "end_time": 1964,
+      "annotation": [
+        {
+          "text": "AH reads: When We do Art We Basically Show to the Others What They Want to See. ZD pets a white cat slightly below the frame of the screen, ear visible."
+        }
+      ],
+      "tags": [],
+      "uuid": "2704a556-e877-496e-aa67-f957dbe3e343"
+    },
+    {
+      "start_time": 1967,
+      "end_time": 2023,
+      "annotation": [
+        {
+          "text": "AH reads: There is This New Kind of Relating Since the Woodlice Ate All of the Metal Fences"
+        }
+      ],
+      "tags": [],
+      "uuid": "ab0f8173-5227-4f32-bdd1-81e9b232baaf"
+    },
+    {
+      "start_time": 2025,
+      "end_time": 2178,
+      "annotation": [
+        {
+          "text": "AH looks down and turns pages. This one's called, Cancer the Dog. "
+        }
+      ],
+      "tags": [],
+      "uuid": "4b5e84e1-bb37-4521-a214-7b780eeebab3"
+    },
+    {
+      "start_time": 2180,
+      "end_time": 2188,
+      "annotation": [
+        {
+          "text": "AH: Yeah, and the next reader is Ivana. Smiling slightly looking at the camera. IB: Thanks Adrienne."
+        }
+      ],
+      "tags": [],
+      "uuid": "b14000cf-f2fa-4081-bc24-57b57805dfab"
+    },
+    {
+      "start_time": 2190,
+      "end_time": 2190,
+      "annotation": [
+        {
+          "text": "IB is a woman in a pink shirt with bangs and medium length hair. Behind her there is ivy some decorative ivy hanging from bright windows and a framed print of lavendar. The shot is a fairly close and straight on. "
+        }
+      ],
+      "tags": [],
+      "uuid": "a20c6ded-f60d-4829-907d-4afd2a31ffde"
+    },
+    {
+      "start_time": 2191,
+      "end_time": 2196,
+      "annotation": [
+        {
+          "text": "IB: I'm gonna read three poems. Only in this Room. (begins reading poem)"
+        }
+      ],
+      "tags": [],
+      "uuid": "7b615b0e-a84c-4665-9cff-2d6652974f00"
+    },
+    {
+      "start_time": 2198,
+      "end_time": 2275,
+      "annotation": [
+        {
+          "text": "IB reads Only in this Room "
+        }
+      ],
+      "tags": [],
+      "uuid": "15e9640b-d354-48c3-bca4-b8ff900b2848"
+    },
+    {
+      "start_time": 2279,
+      "end_time": 2338,
+      "annotation": [
+        {
+          "text": "IB says poem title, Hey Empath, and reads it."
+        }
+      ],
+      "tags": [],
+      "uuid": "1aeace4f-01ab-4866-b23d-9889530cd349"
+    },
+    {
+      "start_time": 2339,
+      "end_time": 2378,
+      "annotation": [
+        {
+          "text": "IB this is my last poem, Intercom. IB reads poem."
+        }
+      ],
+      "tags": [],
+      "uuid": "232f231a-813a-4c1b-aac5-e71af808e5b8"
+    },
+    {
+      "start_time": 2379,
+      "end_time": 2399,
+      "annotation": [
+        {
+          "text": "IB: Thank you. Oddly long silence with IB on screen. Lots of very fast cuts between speakers. BM, PG, and then back to BK. BK: Thank you."
+        }
+      ],
+      "tags": [],
+      "uuid": "277d9d28-2d10-4354-b760-ab71a838a6b6"
+    },
+    {
+      "start_time": 2401,
+      "end_time": 2412,
+      "annotation": [
+        {
+          "text": "BK (slightly out of the frame): Ummmm....that was really really nice. I just don't even know what the rigth word is. That was really really cool. Thank you poets for doing that. for tonight. "
+        }
+      ],
+      "tags": [],
+      "uuid": "d9dce4b3-42af-4458-a08f-3d68ca25a795"
+    },
+    {
+      "start_time": 2413,
+      "end_time": 2429,
+      "annotation": [
+        {
+          "text": "BK: In case you just tuned in and you want to know how to contribute to this night. I will show you. Brief view of PG and BM in speaker view"
+        }
+      ],
+      "tags": [],
+      "uuid": "9a1f20f7-ea60-4ee0-95cd-91e6ebc6a2e0"
+    },
+    {
+      "start_time": 2430,
+      "end_time": 2447,
+      "annotation": [
+        {
+          "text": "Back to BK in Speaker View. Um. BK begins sharescreen of PayPal and Venmo information and Cuneiform Press's domain name. BK: Can y'all hear me? I'm just posting this again. Many. There's a lot of people showing up as we go. So here's how you donate. Y'all can see right? Audience visible in gallery view side bar: Yes."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Donate"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuneiform"
+        }
+      ],
+      "uuid": "0e8096f5-030b-4028-a639-8cbc89139f68"
+    },
+    {
+      "start_time": 2452,
+      "end_time": 2469,
+      "annotation": [
+        {
+          "text": "BK: There it is! Screen shot it! Copy and paste. I don't know what you can do with it. We are. We are trying to buy. We have raised. We have exceeded our goal. But you can still give more if you would like to. "
+        }
+      ],
+      "tags": [],
+      "uuid": "5261be34-2996-423b-adc3-406cb41bf1fd"
+    },
+    {
+      "start_time": 2470,
+      "end_time": 2493,
+      "annotation": [
+        {
+          "text": "BK: Ummm, and i'll say once again that anything that you purchase on the website listed on the page there. Cuneiformpress.com will go to the Bernadette Mayer fund this evening. (End screen share) So I'm gonna stop the share. "
+        }
+      ],
+      "tags": [],
+      "uuid": "a790a9d1-2101-4658-8b5c-8e9c00668b5a"
+    },
+    {
+      "start_time": 2494,
+      "end_time": 2516,
+      "annotation": [
+        {
+          "text": "BK: And I'm gonna say um, without any further ado, if you wanna call it, Ill turn it over to Bernadette Mayer and Philip Good who will take us to the end of the evening. "
+        }
+      ],
+      "tags": [],
+      "uuid": "c3932528-8f41-4c20-ab3a-4eed79f3ba32"
+    },
+    {
+      "start_time": 2499,
+      "end_time": 2535,
+      "annotation": [
+        {
+          "text": "PG in speaker view with slight audio distortion at first: Thank you Bradley. Thank you all. Thank you Generocity. The generosity of everyone this is great. I'm going to begin with Poets in a Box (PG holds up his book Poets in a Box which is a black book with big cartoon eyes on the cover. It is held VERY close to the camera) from the Introduction. "
+        }
+      ],
+      "tags": [],
+      "uuid": "22786a4c-9f8b-48ad-86bf-756622d77311"
+    },
+    {
+      "start_time": 2537,
+      "end_time": 2694,
+      "annotation": [
+        {
+          "text": "PG reads from Introduction to Poets in a Box with slight lag and distortion"
+        }
+      ],
+      "tags": [],
+      "uuid": "f0fadb9f-b86e-4740-b099-5bcbb91ad87f"
+    },
+    {
+      "start_time": 2698,
+      "end_time": 2760,
+      "annotation": [
+        {
+          "text": "PG reads Should We Panic? (Sound of Venmo transaction on phone in background)"
+        }
+      ],
+      "tags": [],
+      "uuid": "891799fe-c751-4745-8a2d-5588f53fe537"
+    },
+    {
+      "start_time": 2762,
+      "end_time": 2810,
+      "annotation": [
+        {
+          "text": "PG reads Stop the Masquerade "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Masks"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        }
+      ],
+      "uuid": "8f32e01e-ec98-4515-8b8a-6b557676b4ce"
+    },
+    {
+      "start_time": 2819,
+      "end_time": 2837,
+      "annotation": [
+        {
+          "text": "PG: Ok, I'll now read, uh, two collaborations with Ms. Mayer before she reads solo. BM: OH. This is Hey Fielders of  the New Normal "
+        }
+      ],
+      "tags": [],
+      "uuid": "fdd24ad4-a7a0-4521-937d-da44d5a47c1d"
+    },
+    {
+      "start_time": 2838,
+      "end_time": 2958,
+      "annotation": [
+        {
+          "text": "PG and BM read Hey Fielders of the New Normal, a poem alternating stanzas by poet. PG begins in Private you can be maskless but as the old song goes you can leave your hat on. BM: I'm being maskless so we can kiss and I'll take my chastity belt off, ok. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Masks"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pandemic"
+        }
+      ],
+      "uuid": "264c387b-66f6-44c9-9117-bed4857cfc4c"
+    },
+    {
+      "start_time": 2958,
+      "end_time": 2962,
+      "annotation": [
+        {
+          "text": "PG says poem title: Lost in East Nassau"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c004edd-1ade-44ad-bc2b-cfb69a753106"
+    },
+    {
+      "start_time": 2967,
+      "end_time": 3255,
+      "annotation": [
+        {
+          "text": "BM begins reading Lost in East Nassau: I never intended that a lake could be so much like a teapot. It's a poem with multiple parts."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pandemic"
+        }
+      ],
+      "uuid": "f4c4687b-52f7-42d4-8f81-a46c74838999"
+    },
+    {
+      "start_time": 3259,
+      "end_time": 3322,
+      "annotation": [
+        {
+          "text": "BM reads: Weird strange isolation end of winter days as the atlast of the world fell down. PG: pipes in throughout"
+        }
+      ],
+      "tags": [],
+      "uuid": "4d038d16-c805-46fc-b873-d529213d1c1b"
+    },
+    {
+      "start_time": 3323,
+      "end_time": 3331,
+      "annotation": [
+        {
+          "text": "PG: Amen! BM laughs PG: And now Bernadette Mayer! PG: turns computer camera to face her, which is shaky."
+        }
+      ],
+      "tags": [],
+      "uuid": "af67a858-18af-4b1a-8ce3-8440beb97e8a"
+    },
+    {
+      "start_time": 3333,
+      "end_time": 3355,
+      "annotation": [
+        {
+          "text": "BM shuffles papers. Thank you, thank you everybody for everything. I'm gonna read a thank you poem. It's called poem for the Benefit of Me. "
+        }
+      ],
+      "tags": [],
+      "uuid": "01dc8d48-7613-4e44-8af8-86918537cd0a"
+    },
+    {
+      "start_time": 3356,
+      "end_time": 3393,
+      "annotation": [
+        {
+          "text": "BM reads Poem for the Benefit of Me from book."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Money"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Poetry"
+        }
+      ],
+      "uuid": "29d4b39b-35ea-4799-a80d-6b3dc4d3e27b"
+    },
+    {
+      "start_time": 3406,
+      "end_time": 3393,
+      "annotation": [
+        {
+          "text": "BM: Now don't take these poems too seriously when you're going to vote. I mean take them totally seriously! PG laughs. BM says poem title, The Dressing Gown. "
+        }
+      ],
+      "tags": [],
+      "uuid": "578803a2-57ef-4335-b1cc-63a23a522c12"
+    },
+    {
+      "start_time": 3417,
+      "end_time": 3600,
+      "annotation": [
+        {
+          "text": "BM reads The Dressing Gown: From now on there will be no fun."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Trump"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Race"
+        }
+      ],
+      "uuid": "978666fd-85d3-4910-916f-f40a5bd83b6c"
+    },
+    {
+      "start_time": 3600,
+      "end_time": 3618,
+      "annotation": [
+        {
+          "text": "BM shuffles papers, sips water. Then says, This is called Mr. Heater's Little Buddy. BM laughs."
+        }
+      ],
+      "tags": [],
+      "uuid": "a4d0e1b8-41c3-4d16-a715-f5e9813999c4"
+    },
+    {
+      "start_time": 3626,
+      "end_time": 3733,
+      "annotation": [
+        {
+          "text": "BM reads Mr. Heater's Little Buddy with some slight audio lags: They said it was just like the sun, into the honey came the yellowjacket. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Nature"
+        }
+      ],
+      "uuid": "2214e04e-0440-4753-b51e-506e9a398018"
+    },
+    {
+      "start_time": 3734,
+      "end_time": 3742,
+      "annotation": [
+        {
+          "text": "BM: This is called Current Events. Pandemic--Oh, I'm sorry. That's a list. Current Events. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pandemic"
+        }
+      ],
+      "uuid": "cff3dfe7-04eb-4701-937b-0de2aeccc010"
+    },
+    {
+      "start_time": 3743,
+      "end_time": 3830,
+      "annotation": [
+        {
+          "text": "BM reads Current Events"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Policing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pandemic"
+        }
+      ],
+      "uuid": "b48ab86a-e6ef-49bd-87aa-347d2fe090c2"
+    },
+    {
+      "start_time": 3844,
+      "end_time": 3850,
+      "annotation": [
+        {
+          "text": "BM: Uh, this is part of a collaboration with LeAnne Brown, Without Any Form."
+        }
+      ],
+      "tags": [],
+      "uuid": "25a05d9b-fa3e-48d5-926c-3b80e6c61a73"
+    },
+    {
+      "start_time": 3850,
+      "end_time": 3896,
+      "annotation": [
+        {
+          "text": "BM reads Without Any Form, No letter, the parts of speech heal like moss, like a love letter"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Policing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pandemic"
+        }
+      ],
+      "uuid": "1a01ac21-ca53-40c8-b594-802141e4dd10"
+    },
+    {
+      "start_time": 3904,
+      "end_time": 3904,
+      "annotation": [
+        {
+          "text": "BM says poem title, This is Just to Say"
+        }
+      ],
+      "tags": [],
+      "uuid": "79765815-377d-44e2-b940-5e8114535e1a"
+    },
+    {
+      "start_time": 3906,
+      "end_time": 3941,
+      "annotation": [
+        {
+          "text": "BM reads This is Just to Say. Alice is home. The coffee up had coffee and water in it. (At the end of the poem there's a slight sound of PG stifling a laugh)"
+        }
+      ],
+      "tags": [],
+      "uuid": "0c870aab-abd6-4630-8609-c698a32c9b13"
+    },
+    {
+      "start_time": 3945,
+      "end_time": 3945,
+      "annotation": [
+        {
+          "text": "BM: there's no poem on this page. Then keeps shuffling papers. PG laughs a bit. "
+        }
+      ],
+      "tags": [],
+      "uuid": "8d470ff9-2437-4eb9-baf0-c4bd4967fe0e"
+    },
+    {
+      "start_time": 3949,
+      "end_time": 4045,
+      "annotation": [
+        {
+          "text": "BM says poem title, Mr. and Mrs. Dandelion and reads it, There was a sense, There was a sensation of mowing to allow the dandelions to grow."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pandemic"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Guns"
+        }
+      ],
+      "uuid": "ace97293-ca6c-4c0b-a5dd-2c33bc6733b4"
+    },
+    {
+      "start_time": 4047,
+      "end_time": 4047,
+      "annotation": [
+        {
+          "text": "BM: Oh! It was prickly pear cactus, Candy, all around. "
+        }
+      ],
+      "tags": [],
+      "uuid": "834cc139-3670-47a0-9d85-138e24b734d0"
+    },
+    {
+      "start_time": 4059,
+      "end_time": 4088,
+      "annotation": [
+        {
+          "text": "BM: This is called, I am taken about your Actual Fish. (During performance there is sound of the Venmo app in the background)"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sex"
+        }
+      ],
+      "uuid": "2d3eb17b-cfd3-44ac-a440-87ee16906685"
+    },
+    {
+      "start_time": 4093,
+      "end_time": 4141,
+      "annotation": [
+        {
+          "text": "BM: I always thought it was good to get dirty and later dirty as in sex too."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sex"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pandemic"
+        }
+      ],
+      "uuid": "99f2e687-9d41-4cde-b6f2-69e7f8436f22"
+    },
+    {
+      "start_time": 4156,
+      "end_time": 4160,
+      "annotation": [
+        {
+          "text": "BM: I'm gonna end here with this poem called the Lobelias of Fear."
+        }
+      ],
+      "tags": [],
+      "uuid": "8bd8ad35-032e-4bbc-b315-349fab1019d9"
+    },
+    {
+      "start_time": 4162,
+      "end_time": 4223,
+      "annotation": [
+        {
+          "text": "BM reads the Lobelias of Fear, There are Maple trees, one, two, three, but wait there's five more"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Guns"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Money"
+        }
+      ],
+      "uuid": "8c45ef25-a3a6-4ddd-87a7-f5fc278a55e6"
+    },
+    {
+      "start_time": 4224,
+      "end_time": 4249,
+      "annotation": [
+        {
+          "text": "BM: And I'd like to thank everyone including myself, no no, haha, I'm serious. I'd like to thank everyone for helping us a generator. For your generOcity, generOcity-ness. PG: Yaaaay! BM: Thank you. "
+        }
+      ],
+      "tags": [],
+      "uuid": "30ed065a-552f-4601-a578-836a0a39d483"
+    },
+    {
+      "start_time": 4253,
+      "end_time": 4289,
+      "annotation": [
+        {
+          "text": "BM and PG clap in frame. Cut to empty Zoom profile in speakerview: Thank you! BM: Oh, what happened? BM: I am... PG: She was muted though. Zoom profile Cara: Thank you so much for my name right. So few people do. And I'm such a big fan of your work Bernadette. My friend Dan Graham introduced me to your work many years ago. And for saying my name right. "
+        }
+      ],
+      "tags": [],
+      "uuid": "7f832054-9c5f-45ac-ad43-d6594ff44ccd"
+    },
+    {
+      "start_time": 4291,
+      "end_time": 4310,
+      "annotation": [
+        {
+          "text": "Cut to a couple in speaker view. Guy: Bernadette that was incredible. BM: Thank you. We can't see you we can hear you. Anne Waldman in speaker view, wearing bright yellow and clapping: Thank you Bernadette! "
+        }
+      ],
+      "tags": [],
+      "uuid": "e196fe26-738f-45b0-be54-95d18de95a12"
+    },
+    {
+      "start_time": 4313,
+      "end_time": 4324,
+      "annotation": [
+        {
+          "text": "Cut to man in front of photo of man finishing background in Speaker View. Then back to BM and PG. Bald man in room full of books: Thank you for Bernadette, Philip, Generocity!  BM nice to see you! Randomly cut back to couple in speaker view. Sound of Yaaays! Cut back to BM and PG. "
+        }
+      ],
+      "tags": [],
+      "uuid": "f13d4054-f0b9-49fc-89a2-41d9e158c9b8"
+    },
+    {
+      "start_time": 4336,
+      "end_time": 4338,
+      "annotation": [
+        {
+          "text": "Cut from bald man to man with beard in extreme close-up. Lots of yays. Back to BM, Setting up the tent tonight! "
+        }
+      ],
+      "tags": [],
+      "uuid": "b17d3bd0-b97d-4f90-b9ec-84fac0ae24c5"
+    },
+    {
+      "start_time": 4339,
+      "end_time": 4356,
+      "annotation": [
+        {
+          "text": "back to BK in speaker view, but outside with two women and a man. Now in a medium shot. BK: Thank you everyone! Can y'all hear me? Others: Yes! BK: My computer shut down about half way through that poem so I ran outside to my friends who are here. We're in Austin, Texas. It's sunset. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Place"
+        }
+      ],
+      "uuid": "de2ab5b6-11e1-4a26-9200-e00293775f46"
+    },
+    {
+      "start_time": 4357,
+      "end_time": 4374,
+      "annotation": [
+        {
+          "text": "Cut back to man by fishing background. BK: Um, I had a lot of stuff I needed to say, and the end of the reading. Back to BK in view. Again, thanks to Sarah La Puerta. This wouldn't be happening if Sarah hadn't met Bernadette and this vision. "
+        }
+      ],
+      "tags": [],
+      "uuid": "7fbd18b5-fd2c-4a56-b742-f873cde0e52e"
+    },
+    {
+      "start_time": 4375,
+      "end_time": 4396,
+      "annotation": [
+        {
+          "text": "BK oddly crouched alone with bike in background by barn: Go check out Cuneiform Press and buy a book. Wow. Thank you so much to all the readers. It was so. I mean to hear the issues of the times, with all of you, it felt like a very nice, it felt like a warm thing, it felt like something was lifted from me or something. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Cuneiform"
+        }
+      ],
+      "uuid": "c1cfd4ff-d895-4735-bf35-3b527fe8b540"
+    },
+    {
+      "start_time": 4400,
+      "end_time": 4430,
+      "annotation": [
+        {
+          "text": "BK: Um. Cut back to BM and PG in speaker view, BM laughing happily. BK: Um thanks to Sharon Ruse and Philip Trussel who are creating these objects that will enter the archive of tonight and I think this type of thing. Geneocity. Is going to be an ongoing energy that we continue at some future moment so stay tuned in. "
+        }
+      ],
+      "tags": [],
+      "uuid": "c80566ab-6597-4455-b4d2-eb6446fada6c"
+    },
+    {
+      "start_time": 4431,
+      "end_time": 4455,
+      "annotation": [
+        {
+          "text": "BK gets very close to camera. Um, Bernadette I would like tell you goodnight and uh, thank you so much Bernadette.Cut to beareded man clapping. BM: Well you're very welcome. And thank you so much too! "
+        }
+      ],
+      "tags": [],
+      "uuid": "029cab3e-fead-4fbc-b5b5-d9c66cfe3331"
+    },
+    {
+      "start_time": 4518,
+      "end_time": 4469,
+      "annotation": [
+        {
+          "text": "cut back to IB. Thank you Bradley, thank you Bernadette. BM: And you can all come over and use my generator any time! Cut back to BM and PG. Bearded man: Thank you! Laughing. PG and BM also laughing. "
+        }
+      ],
+      "tags": [],
+      "uuid": "5b7a293d-be71-496d-b076-3d2745825e71"
+    },
+    {
+      "start_time": 4472,
+      "end_time": 4513,
+      "annotation": [
+        {
+          "text": "Back to BK: I've really enjoyed being your fool for this evening, everyone. And I'll say goodnight! Multiple people say goodnight in speaker. Back to BK with people aroung him off-screen saying, Bradley that was so amazing! You did incredible. BK: Thank you. BK wanders away from computer: They can still hear us! Woman in bed: you're still there Bradley! "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        }
+      ],
+      "uuid": "7aae7f3e-8a32-4fe0-a32c-66ecd60c7b78"
+    },
+    {
+      "start_time": 4517,
+      "end_time": 4535,
+      "annotation": [
+        {
+          "text": "BK: Sarah LaPuerta is the host now. Thank goodness. Saral LaPuerta in speaker view: Oh that's good! So wait, I have to end the meeting. I'm gonna stay here. Cut to Anne Waldman, BM, cut back to BK: There's still a lot of people here it's like we're all hanging out after the reading now. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        }
+      ],
+      "uuid": "9c00c97d-e1e0-4a60-951e-f7b817f11e38"
+    },
+    {
+      "start_time": 4539,
+      "end_time": 4552,
+      "annotation": [
+        {
+          "text": "BK: Annabel Lee! A (woman in bed): Hi Bradley! Zoom cuts between them in speaker view. A: This is the fun part! BK: Annabel hi!!! A: Hi Bradley! BK: It's nice to see you! A: good to see you. Cuts briefly to BK and PG. "
+        }
+      ],
+      "tags": [],
+      "uuid": "4de5d51c-2bc5-48fb-864e-afcf0f441fbf"
+    },
+    {
+      "start_time": 4552,
+      "end_time": 4593,
+      "annotation": [
+        {
+          "text": "SL: So if I end the meeting all you people just dissapeear. Cut to woman with bangs: So i'm going to say hello and goodnight to Sarah. It's nice to see your face for the first time in many moons. So thanks so much for inviting me and your poetry is so beautiful and filled my heart. Thank you so much Bernadette. You made my evening just fantastic and lovely. Be healthy and safe anywhere you guys are eh? "
+        }
+      ],
+      "tags": [],
+      "uuid": "94e4a7fa-b075-4830-8829-63f9a7b45e06"
+    },
+    {
+      "start_time": 4596,
+      "end_time": 4610,
+      "annotation": [
+        {
+          "text": "Woman waves goodbye. back to PG and BM in speaker mode. PG: Thank you. BM: Too-da-loo. Bangs woman: Bye Sarah. off-screen voice: too da loo? Anne Waldman: Hi Annabel! "
+        }
+      ],
+      "tags": [],
+      "uuid": "ab61da52-ebd2-420f-8d88-71a48a38b443"
+    },
+    {
+      "start_time": 4612,
+      "end_time": 4652,
+      "annotation": [
+        {
+          "text": "Annabel: Nice to see you, Anne! Grandma! Cut back to BK. BK: Is that Anne Waldman there? Voice: Yeah. BK: I want to tell you I played Memorial Day 1971 for a senior in high school. I mean I'm a teacher at a very tiny school and I have a senior class of 1. A really brilliant excitable person. And I show her your work, and I show her yours too Bernadette. "
+        }
+      ],
+      "tags": [],
+      "uuid": "37c6d2e3-c688-43a5-a584-5ec9fdf7be41"
+    },
+    {
+      "start_time": 4654,
+      "end_time": 4691,
+      "annotation": [
+        {
+          "text": "BK: Along with Hannah Wiener, and along with Lee Lozano and she gets really high on that stuff. Nice! Oh. And I played her Memorial Day 1971. And when you sang. I don't wanna hear about that anymore. She started doing this groovy thing. And she was really feeling it. So I just wanted to tell you that the kids are really feeling it. PG: nice. AW: So how's it going in the country where you are? What are you doing? "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Place"
+        }
+      ],
+      "uuid": "b955a617-5807-447e-9069-02071590442e"
+    },
+    {
+      "start_time": 4693,
+      "end_time": 4721,
+      "annotation": [
+        {
+          "text": "AW: You're getting your generator, Bernadette. BM: Yeah, we'll be able to get a generator. AW: Is it getting cold yet? BM: No it's going the other way. It's the beginning of fall but it's like 80 degrees. AW: We had a big snow storm. BM: And it's very humid too. "
+        }
+      ],
+      "tags": [],
+      "uuid": "10282e7d-1788-4e90-b1b9-41d5ac46efc3"
+    },
+    {
+      "start_time": 4723,
+      "end_time": 4768,
+      "annotation": [
+        {
+          "text": "BM: It's fucked up. Cut to young man with Monet background. Annabel in bed: Did you make an onion pie? PG: Not yet. BM: But I'm going to! A: I had a feeling you're gonna. BM: Ya, I was so impressed that susan made it and we've got the most wonderful onions. PG: Including shallots from (inaudible) farm. BM: We can't figure out what's going on there. It's a cult. PG: Don't say that! A: nooo. "
+        }
+      ],
+      "tags": [],
+      "uuid": "0ed8373d-43ef-49e6-8505-df0dd8e547b7"
+    },
+    {
+      "start_time": 4769,
+      "end_time": 4833,
+      "annotation": [
+        {
+          "text": "BM: We get our onions from a cult. BK back on screen: What kind of cult? BM: I don't know really. I'm just finding out. BK back in frame smiling. PG: Well we should go I guess. BM: Thank you so much. Sarah LP: Well, all right. PG: see ya later alligator! SLP: I'm gonna end this any you're all going to dissapear. So. BM: I'm gonna write a poem about Zoom and you're not gonna like it but i'm gonna write it anyway. BK: for the next round maybe. BM: Everytime there is a Zoom you could say this poem. SLP: 5-4-3-2-1. Many goodnights. "
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Platform"
+        }
+      ],
+      "uuid": "e4f62b38-0f10-4840-bc58-0765357c1ac5"
+    }
+  ]
+}
